@@ -1,4 +1,4 @@
-# author : @Syhrularv_
+# author : @HUNTERTIK_
 # -*- coding: utf-8 -*-
 
 import os
@@ -28,8 +28,8 @@ banner = """
      dZP        qKRb
     dZP          qKKb
    fZP            SMMb
-   HZM            MMMM    {}Coded by {}: {}Syhrül
-{}   FqM            MMMM    {}FB       {}: {}fb.com/sarul.arif.5
+   HZM            MMMM    {}CODE BY {}: {}ARIYAN
+{}   FqM            MMMM    {}FB       {}: {}fb.com/HUNTERTHEARIYAN
 {} __|'\ .        |\{}dS qML
 {} |    `.       | `' \{}Zq
 {}_)      \.{}___.{},|     .'
